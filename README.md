@@ -1,6 +1,6 @@
 bitmaputils
 自己封装的图片加载工具包
-geng
+
 更新AndroidStudio 版的
 此工具中使用了useLibrary 'org.apache.http.legacy'
 已内置不用再添加其他
