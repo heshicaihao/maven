@@ -27,7 +27,7 @@ apply plugin: 'maven'
 ext {
     // 从Github上clone下来的项目的本地地址
     //这里指定的就是刚刚新建项目后clone下来的在本地的路径
-    GITHUB_REPO_PATH = "E:/workspace/bitmaputils.git/trunk"
+    GITHUB_REPO_PATH = "E:/Note/maven.git/trunk"
     PUBLISH_GROUP_ID = 'com.heshicaihao'
     PUBLISH_ARTIFACT_ID = 'bitmaputils'
     PUBLISH_VERSION = '2.0.0'
