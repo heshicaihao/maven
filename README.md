@@ -13,43 +13,47 @@ https://raw.githubusercontent.com/heshicaihao/maven/master
 
 utils 工具包
 
-https://github.com/heshicaihao/utils.git/trunk/com/master
+https://github.com/heshicaihao/utils.git
+
 
 calendar 日历控件
 
-https://github.com/heshicaihao/calendar.git/trunk/com/master
+https://github.com/heshicaihao/calendar.git
+
 
 autograph 手写签名板
 
-https://github.com/heshicaihao/autograph.git/trunk/master
+https://github.com/heshicaihao/autograph.git
 
 
 net 网络请求 解析
 
-https://github.com/heshicaihao/net.git/trunk//master
+https://github.com/heshicaihao/net.git
 
 
 photopicker 图片选择浏览
 
-https://github.com/heshicaihao/photopicker.git/trunk//master
+https://github.com/heshicaihao/photopicker.git
 
 
 zxing 二维码包
 
-https://github.com/heshicaihao/zxing.git/trunk/com/master
+https://github.com/heshicaihao/zxing.git
 
 
 screenadapter 屏幕适配工具
 
-https://github.com/heshicaihao/screenadapter.git/trunk//master
+https://github.com/heshicaihao/screenadapter.git
+
 
 camera 相机开发适配工具
 
-https://github.com/heshicaihao/camera.git/trunk/com/master
+https://github.com/heshicaihao/camera.git
+
 
 bitmaputils 图片加载工具
 
-https://github.com/heshicaihao/bitmaputils.git/trunk/com/master
+https://github.com/heshicaihao/bitmaputils.git
 
 
 
