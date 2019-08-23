@@ -11,6 +11,14 @@ https://raw.githubusercontent.com/heshicaihao/maven/master
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
+utils 工具包
+
+https://github.com/heshicaihao/utils.git/trunk/com/master
+
+calendar 日历控件
+
+https://github.com/heshicaihao/calendar.git/trunk/com/master
+
 autograph 手写签名板
 
 https://github.com/heshicaihao/autograph.git/trunk/master
@@ -35,23 +43,15 @@ screenadapter 屏幕适配工具
 
 https://github.com/heshicaihao/screenadapter.git/trunk//master
 
+camera 相机开发适配工具
 
-calendar 日历控件
-
-https://github.com/heshicaihao/calendar.git/trunk/com/master
+https://github.com/heshicaihao/camera.git/trunk/com/master
 
 bitmaputils 图片加载工具
 
 https://github.com/heshicaihao/bitmaputils.git/trunk/com/master
 
 
-camera 相机开发适配工具
-
-https://github.com/heshicaihao/camera.git/trunk/com/master
-
-utils 工具包
-
-https://github.com/heshicaihao/utils.git/trunk/com/master
 
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
