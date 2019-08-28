@@ -11,6 +11,16 @@ https://raw.githubusercontent.com/heshicaihao/maven/master
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
+update Android App 更新库
+
+https://github.com/heshicaihao/update.git
+
+
+badge Android 应用桌面 Logo 添加数字提醒
+
+https://github.com/heshicaihao/badge.git
+
+
 utils 工具包
 
 https://github.com/heshicaihao/utils.git
