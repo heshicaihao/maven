@@ -11,6 +11,11 @@ https://raw.githubusercontent.com/heshicaihao/maven/master
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
+fastjson 阿里json工具1.2.60
+
+https://github.com/heshicaihao/fastjson.git
+
+
 update Android App 更新库
 
 https://github.com/heshicaihao/update.git
