@@ -3,11 +3,12 @@
   <groupId>com.heshicaihao</groupId>
   <artifactId>photopicker</artifactId>
   <versioning>
-    <release>1.1.24</release>
+    <release>1.1.25</release>
     <versions>
       <version>1.1.23</version>
       <version>1.1.24</version>
+      <version>1.1.25</version>
     </versions>
-    <lastUpdated>20191016062107</lastUpdated>
+    <lastUpdated>20191016065842</lastUpdated>
   </versioning>
 </metadata>
