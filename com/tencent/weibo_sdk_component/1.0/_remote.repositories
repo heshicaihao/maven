@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 27 00:46:37 CST 2020
+weibo_sdk_component-1.0.jar>=
+weibo_sdk_component-1.0.pom>=
