@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Mar 29 14:31:46 CST 2020
+zxing-1.0.jar>=
+zxing-1.0.pom>=

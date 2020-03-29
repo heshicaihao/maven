@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Mar 29 14:23:32 CST 2020
+wechat_core-2.5.7.jar>=
+wechat_core-2.5.7.pom>=
